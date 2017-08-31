@@ -1,3 +1,5 @@
+__author__ = 'Zhouhao Zeng'
+
 import HTSeq
 import sys, re
 from optparse import OptionParser
