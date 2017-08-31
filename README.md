@@ -8,4 +8,5 @@ Code for generating the profile of histone marks at specific sets of genomic lan
 Usage: generate profile around gene TSS or TES.
 
 Example:
+
 <img src="examples/example-profile-1.png" width="400">
