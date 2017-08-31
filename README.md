@@ -84,7 +84,7 @@ Obtaining the reads distribution of histone marks at specific sets of genomic la
 output file:
 
 ```
-gene_id        read_count      RPKM            RPKM_with_pseudo_count
+gene_id         read_count      RPKM            RPKM_with_pseudo_count
 9930014A18Rik   0               0.0             0.0111453327533
 AA467197        0               0.0             0.0136666098393
 Abcg2           0               0.0             0.00273733530983
