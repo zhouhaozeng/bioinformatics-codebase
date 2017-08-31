@@ -7,7 +7,7 @@ Generating profile of histone marks at specific sets of genomic landmarks.
 
 **Usage:** generating profile around gene TSS or TES.
 
-**Example:**
+**Example:** from my co-first authored [paper](http://www.nature.com/ni/journal/v17/n6/full/ni.3456.html) published in *Nature Immunology* on 2016.
 
 <img src="examples/profile-1.png" width="400">
 
