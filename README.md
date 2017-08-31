@@ -11,7 +11,7 @@ Example:
 
 <img src="examples/profile-1.png" width="400">
 
-#### `generate_profile_around_sites.py`
+#### [`generate_profile_around_sites.py`](profile/generate_profile_around_sites.py)
 
 Usage: generate profile around transcription binding sites.
 
