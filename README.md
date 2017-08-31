@@ -25,4 +25,4 @@ Usage: generate profile around transcription binding sites aligned by their summ
 
 Example:
 
-<img src="examples/profile-3.png" width="800">
+<img src="examples/profile-3.png" width="700">
