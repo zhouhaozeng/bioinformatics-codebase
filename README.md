@@ -15,7 +15,7 @@ Generating profile of histone marks at specific sets of genomic landmarks.
 
 **Usage:** generating profile around transcription binding sites.
 
-**Example:**
+**Example:** from my co-first authored [paper](http://www.nature.com/ni/journal/v17/n6/full/ni.3456.html) published in *Nature Immunology* on 2016.
 
 <img src="examples/profile-2.png" width="400">
 
@@ -23,7 +23,7 @@ Generating profile of histone marks at specific sets of genomic landmarks.
 
 **Usage:** generating profile around transcription binding sites aligned by their summits.
 
-**Example:**
+**Example:** from my ongoing project
 
 <img src="examples/profile-3.png" width="700">
 
