@@ -33,4 +33,4 @@ Usage: generate matrix of profiles around transcription binding sites. One profi
 
 Example:
 
-<img src="examples/profile-4.png" width="400">
+<img src="examples/profile-4.png" width="350">
