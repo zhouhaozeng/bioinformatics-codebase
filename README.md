@@ -11,7 +11,6 @@ Example:
 
 <img src="examples/profile-1.png" width="400">
 
-
 #### `generate_profile_around_sites.py`
 
 Usage: generate profile around transcription binding sites.
@@ -19,3 +18,11 @@ Usage: generate profile around transcription binding sites.
 Example:
 
 <img src="examples/profile-2.png" width="400">
+
+#### `generate_profile_around_summits.py`
+
+Usage: generate profile around transcription binding sites aligned by their summits.
+
+Example:
+
+<img src="examples/profile-3.png" width="800">
