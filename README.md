@@ -23,7 +23,7 @@ Generating profile of histone marks at specific sets of genomic landmarks.
 
 **Usage:** generating profile around transcription binding sites aligned by their summits.
 
-**Example:** from my ongoing project
+**Example:** from my co-first authored [paper](http://www.nature.com/ni/journal/v18/n8/full/ni.3773.html) published in *Nature Immunology* on 2017.
 
 <img src="examples/profile-3.png" width="700">
 
@@ -31,7 +31,7 @@ Generating profile of histone marks at specific sets of genomic landmarks.
 
 **Usage:** generating matrix of profiles around transcription binding sites. One profile for each binding site, organized as a heatmap.
 
-**Example:** from my co-first authored [paper](http://www.nature.com/ni/journal/v18/n8/full/ni.3773.html) published in *Nature Immunology* on 2017.
+**Example:** from my ongoing project
 
 <img src="examples/profile-4.png" width="350">
 
