@@ -26,3 +26,11 @@ Usage: generate profile around transcription binding sites aligned by their summ
 Example:
 
 <img src="examples/profile-3.png" width="700">
+
+#### [`generate_profile_matrix_around_summits.py`](profile/generate_profile_matrix_around_summits.py)
+
+Usage: generate matrix of profiles around transcription binding sites. One profile for each binding site, organized as a heatmap.
+
+Example:
+
+<img src="examples/profile-4.png" width="400">
