@@ -1,6 +1,6 @@
-import sys, os, re
-from optparse import OptionParser
+import sys
 import subprocess
+from optparse import OptionParser
 
 def main(argv):
     parser = OptionParser()
