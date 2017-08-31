@@ -1,2 +1,6 @@
 # bioinformatics-codebase
-Collection of code for genomic data analysis (mainly for RNA-Seq and ChIP-Seq data) 
+Collection of code for genomic data analysis (mainly for RNA-Seq and ChIP-Seq data)
+## profile
+Code for generating the profile of histone marks at specific sets of genomic landmarks.
+#### Example
+<img src="examples/example-profile-1.png" width="400">
