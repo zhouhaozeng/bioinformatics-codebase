@@ -40,4 +40,4 @@ Finding enhancers from histone modification data.
 
 #### [`find_enhancer.py`](enhancer/find_enhancer.py)
 
-Usage: Identifying active, primed, poised enhancers from histone marks peaks.
+Usage: Identifying active, primed, poised enhancers from histone modification peaks.
