@@ -100,7 +100,7 @@ def main(argv):
             peak_genic_region[peak_iv].add("intergenic_region")
 
     outfile = open(opt.outfile, "w")
-    header = "chromosome" + "\t" + "start" + "\t" + "end" + "\t" + "genic_region" + "\n"
+    header = "chrom" + "\t" + "start" + "\t" + "end" + "\t" + "genic_region" + "\n"
     outfile.write(header)
     for peak_iv in sorted(peak_genic_region.keys(), key=lambda f: (f.chrom, f.start)):
         if len(peak_genic_region[peak_iv]) > 1:

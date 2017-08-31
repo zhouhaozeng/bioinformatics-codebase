@@ -64,13 +64,34 @@ output file:
 chrom   start           end             genic_region
 chr1    6204000         6205599         TSS_region Rb1cc1
 chr1    7078600         7079899         TSS_region Pcmtd1
-chr1    9737500         9738999         TSS_region 1700034P13Rik,TSS_region Vcpip1
-chr1    16093900        16095699        TSS_region Rdh10,TSS_region Rpl7
+chr1    16093900        16095699        TSS_region Rdh10
 chr1    16608700        16609699        TSS_region Ube2w
-chr1    24685100        24686599        TSS_region Lmbrd1
-chr1    31006300        31007299        TSS_region Ptp4a1,TSS_region Gm13363
 chr1    34898600        34900599        TSS_region Fam168b
 chr1    36322000        36323499        gene_body Neurl3
 chr1    36364100        36367599        TSS_region Arid5a
 chr1    36527900        36529499        TSS_region Cnnm4
 ```
+
+## read count
+Obtaining the reads distribution of histone marks at specific sets of genomic landmarks.
+
+#### [`get_read_count_on_genomic_region.py`](read_count/get_read_count_on_genomic_region.py)
+
+**Usage:** Getting the reads distribution of histone marks at genomic landmarks (i.e. promoter, gene body) of a given gene list.
+
+**Example:**
+
+output file:
+
+```
+#gene_id        read_count      RPKM            RPKM_with_pseudo_count
+9930014A18Rik   0               0.0             0.0111453327533
+AA467197        0               0.0             0.0136666098393
+Abcg2           0               0.0             0.00273733530983
+Acsbg1          384             1.58280916587   1.58693106474
+Adam8           1002            9.45914868155   9.46858894969
+Adamts14        670             2.20438939296   2.20767952638
+Afp             0               0.0             0.00829786569023
+Akap1           0               0.0             0.00589141522767
+```
+
