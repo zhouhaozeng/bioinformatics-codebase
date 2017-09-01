@@ -21,7 +21,7 @@ Generating profile of [histone marks](https://www.whatisepigenetics.com/histone-
 
 **Usage:** generating profile or histone marks around gene [TSS](https://en.wikiversity.org/wiki/Gene_transcriptions/Start_sites) or TES.
 
-**Example:** from [[2]](#bioinformatics-codebase)
+**Example:** from paper [[2]](#bioinformatics-codebase)
 
 <img src="examples/profile-1.png" width="400">
 
