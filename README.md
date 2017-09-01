@@ -1,7 +1,7 @@
 # bioinformatics-codebase
 Collection of code for genomic data analysis (mainly for [RNA-Seq](https://en.wikipedia.org/wiki/RNA-Seq) and [ChIP-Seq](https://en.wikipedia.org/wiki/ChIP-sequencing) data)
 
-The code is used for analysis of the following papers (* are first author):
+The code is used for analysis of the following papers:
 
 >Qiang Shan*, **Zhouhao Zeng\*,** Shaojun Xing, Fengyin Li, Stacey M. Hartwig, Jodi A. Gullicksrud et al. 
 "[The transcription factor Runx3 guards cytotoxic CD8+ effector T cells against deviation towards follicular helper T cell lineage.](http://www.nature.com/ni/journal/v18/n8/full/ni.3773.html)" *Nature Immunology* 18, no. 8 (2017): 931-939.
