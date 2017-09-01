@@ -1,7 +1,7 @@
 # bioinformatics-codebase
-Collection of code for genomic data analysis (mainly for RNA-Seq and ChIP-Seq data)
+Collection of code for genomic data analysis (mainly for [RNA-Seq](https://en.wikipedia.org/wiki/RNA-Seq) and [ChIP-Seq](https://en.wikipedia.org/wiki/ChIP-sequencing) data)
 ## profile
-Generating profile of histone marks at specific sets of genomic landmarks.
+Generating profile of [histone marks](https://www.whatisepigenetics.com/histone-modifications/) at specific sets of genomic landmarks.
 
 #### [`generate_profile_around_locations.py`](profile/generate_profile_around_locations.py)
 
