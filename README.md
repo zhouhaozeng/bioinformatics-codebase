@@ -22,7 +22,7 @@ Generating profile of [histone marks](https://www.whatisepigenetics.com/histone-
 
 #### [`generate_profile_around_locations.py`](profile/generate_profile_around_locations.py)
 
-**Usage:** generating profile or histone marks around gene [TSS](https://en.wikiversity.org/wiki/Gene_transcriptions/Start_sites) or TES.
+**Usage:** generating profile or histone marks around gene [TSS](https://en.wikiversity.org/wiki/Gene_transcriptions/Start_sites).
 
 **Example:** from paper [[2]](#bioinformatics-codebase)
 
