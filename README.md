@@ -21,7 +21,7 @@ Generating profile of [histone marks](https://www.whatisepigenetics.com/histone-
 
 **Usage:** generating profile or histone marks around gene [TSS](https://en.wikiversity.org/wiki/Gene_transcriptions/Start_sites) or TES.
 
-**Example:**
+**Example:** from paper [[2]](#bioinformatics-codebase)
 
 <img src="examples/profile-1.png" width="400">
 
@@ -37,7 +37,7 @@ Generating profile of [histone marks](https://www.whatisepigenetics.com/histone-
 
 **Usage:** generating profile of histone marks around transcription factor binding sites aligned by their summits.
 
-**Example:**
+**Example:** from paper [[1]](#bioinformatics-codebase)
 
 <img src="examples/profile-3.png" width="700">
 
@@ -45,7 +45,7 @@ Generating profile of [histone marks](https://www.whatisepigenetics.com/histone-
 
 **Usage:** generating matrix of profiles around transcription binding sites. One profile for each binding site, organized as a heatmap.
 
-**Example:**
+**Example:** from ongoing project
 
 <img src="examples/profile-4.png" width="350">
 
