@@ -14,6 +14,9 @@ The code is used for analysis of the following papers:
 >[3]  Youn Soo Choi, Jodi A. Gullicksrud, Shaojun Xing, **Zhouhao Zeng**, Qiang Shan, Fengyin Li et al. 
 "[LEF-1 and TCF-1 orchestrate TFH differentiation by regulating differentiation circuits upstream of the transcriptional repressor Bcl6.](http://www.nature.com/ni/journal/v16/n9/full/ni.3226.html)" *Nature immunology* 16, no. 9 (2015): 980-990.
 
+>[4]  Jodi A. Gullicksrud, Fengyin Li, Shaojun Xing, **Zhouhao Zeng**, Weiqun Peng, Vladimir P. Badovinac et al. 
+"[Differential Requirements for Tcf1 Long Isoforms in CD8+ and CD4+ T Cell Responses to Acute Viral Infection.](http://www.jimmunol.org/content/199/3/911)" *The Journal of Immunology* 199, no. 3 (2017): 911-919.
+
 ## profile
 Generating profile of [histone marks](https://www.whatisepigenetics.com/histone-modifications/) at specific sets of genomic landmarks.
 
