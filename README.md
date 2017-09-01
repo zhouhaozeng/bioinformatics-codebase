@@ -1,11 +1,11 @@
 # bioinformatics-codebase
-Collection of code for genomic data analysis (mainly for RNA-Seq and ChIP-Seq data)
+Collection of code for genomic data analysis (mainly for [RNA-Seq](https://en.wikipedia.org/wiki/RNA-Seq) and [ChIP-Seq](https://en.wikipedia.org/wiki/ChIP-sequencing) data)
 ## profile
-Generating profile of histone marks at specific sets of genomic landmarks.
+Generating profile of [histone marks](https://www.whatisepigenetics.com/histone-modifications/) at specific sets of genomic landmarks.
 
 #### [`generate_profile_around_locations.py`](profile/generate_profile_around_locations.py)
 
-**Usage:** generating profile around gene TSS or TES.
+**Usage:** generating profile or histone marks around gene [TSS](https://en.wikiversity.org/wiki/Gene_transcriptions/Start_sites) or TES.
 
 **Example:** figure from my co-first authored [paper](http://www.nature.com/ni/journal/v17/n6/full/ni.3456.html) published in *Nature Immunology* on 2016.
 
