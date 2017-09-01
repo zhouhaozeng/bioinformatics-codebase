@@ -8,7 +8,7 @@ The code is used for analysis of the following papers:
 
 >Qiang Shan, **Zhouhao Zeng,** Shaojun Xing, Fengyin Li, Stacey M. Hartwig, Jodi A. Gullicksrud, Samarchith P. Kurup et al. 
 "[The transcription factor Runx3 guards cytotoxic CD8+ effector T cells against deviation towards follicular helper T cell lineage.](http://www.nature.com/ni/journal/v18/n8/full/ni.3773.html)" *Nature Immunology* 18, no. 8 (2017): 931-939.
-</br>
+
 
 ## profile
 Generating profile of [histone marks](https://www.whatisepigenetics.com/histone-modifications/) at specific sets of genomic landmarks.
