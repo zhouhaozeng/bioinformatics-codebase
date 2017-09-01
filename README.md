@@ -1,4 +1,4 @@
-#bioinformatics-codebase
+# bioinformatics-codebase
 Collection of code for genomic data analysis (mainly for [RNA-Seq](https://en.wikipedia.org/wiki/RNA-Seq) and [ChIP-Seq](https://en.wikipedia.org/wiki/ChIP-sequencing) data)
 
 The code is used for analysis of the following papers:
