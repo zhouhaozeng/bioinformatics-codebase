@@ -3,10 +3,10 @@ Collection of code for genomic data analysis (mainly for [RNA-Seq](https://en.wi
 
 The code is used for analysis of the following papers:
 
->Xing, Shaojun, Fengyin Li, **Zhouhao Zeng,** Yunjie Zhao, Shuyang Yu, Qiang Shan, Yalan Li et al. 
+>Shaojun Xing, Fengyin Li, **Zhouhao Zeng,** Yunjie Zhao, Shuyang Yu, Qiang Shan, Yalan Li et al. 
 "[Tcf1 and Lef1 transcription factors establish CD8+ T cell identity through intrinsic HDAC activity.](http://www.nature.com/ni/journal/v17/n6/full/ni.3456.html)" *Nature immunology* 17, no. 6 (2016): 695.
 
->Shan, Qiang, **Zhouhao Zeng**, Shaojun Xing, Fengyin Li, Stacey M. Hartwig, Jodi A. Gullicksrud, Samarchith P. Kurup et al. 
+>Qiang Shan, **Zhouhao Zeng,** Shaojun Xing, Fengyin Li, Stacey M. Hartwig, Jodi A. Gullicksrud, Samarchith P. Kurup et al. 
 "[The transcription factor Runx3 guards cytotoxic CD8+ effector T cells against deviation towards follicular helper T cell lineage.](http://www.nature.com/ni/journal/v18/n8/full/ni.3773.html)" *Nature Immunology* 18, no. 8 (2017): 931-939.
 
 ## profile
