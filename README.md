@@ -23,7 +23,7 @@ Generating profile of [histone marks](https://www.whatisepigenetics.com/histone-
 
 #### [`generate_profile_around_sites.py`](profile/generate_profile_around_sites.py)
 
-**Usage:** generating profile around [transcription factor](https://en.wikipedia.org/wiki/Transcription_factor) binding sites.
+**Usage:** generating profile of histone marks around [transcription factor](https://en.wikipedia.org/wiki/Transcription_factor) binding sites.
 
 **Example:**
 
@@ -31,7 +31,7 @@ Generating profile of [histone marks](https://www.whatisepigenetics.com/histone-
 
 #### [`generate_profile_around_summits.py`](profile/generate_profile_around_summits.py)
 
-**Usage:** generating profile around transcription factor binding sites aligned by their summits.
+**Usage:** generating profile of histone marks around transcription factor binding sites aligned by their summits.
 
 **Example:**
 
