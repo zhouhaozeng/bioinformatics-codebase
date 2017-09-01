@@ -4,15 +4,15 @@ Collection of code for genomic data analysis (mainly for [RNA-Seq](https://en.wi
 The code is used for analysis of the following papers:
 
 >Qiang Shan*, **Zhouhao Zeng\*,** Shaojun Xing, Fengyin Li, Stacey M. Hartwig, Jodi A. Gullicksrud et al. 
-"[The transcription factor Runx3 guards cytotoxic CD8+ effector T cells against deviation towards follicular helper T cell lineage.](http://www.nature.com/ni/journal/v18/n8/full/ni.3773.html)" ***Nature Immunology*** 18, no. 8 (2017): 931-939.
+"[The transcription factor Runx3 guards cytotoxic CD8+ effector T cells against deviation towards follicular helper T cell lineage.](http://www.nature.com/ni/journal/v18/n8/full/ni.3773.html)" *Nature Immunology* 18, no. 8 (2017): 931-939.
 ***\*contributed equally***
 
 >Shaojun Xing*, Fengyin Li*, **Zhouhao Zeng\*,** Yunjie Zhao, Shuyang Yu, Qiang Shan et al. 
-"[Tcf1 and Lef1 transcription factors establish CD8+ T cell identity through intrinsic HDAC activity.](http://www.nature.com/ni/journal/v17/n6/full/ni.3456.html)" ***Nature immunology*** 17, no. 6 (2016): 695.
+"[Tcf1 and Lef1 transcription factors establish CD8+ T cell identity through intrinsic HDAC activity.](http://www.nature.com/ni/journal/v17/n6/full/ni.3456.html)" *Nature immunology* 17, no. 6 (2016): 695.
 ***\*contributed equally***
 
 >Youn Soo Choi, Jodi A. Gullicksrud, Shaojun Xing, **Zhouhao Zeng**, Qiang Shan, Fengyin Li et al. 
-"[LEF-1 and TCF-1 orchestrate TFH differentiation by regulating differentiation circuits upstream of the transcriptional repressor Bcl6.](http://www.nature.com/ni/journal/v16/n9/full/ni.3226.html)" ***Nature immunology*** 16, no. 9 (2015): 980-990.
+"[LEF-1 and TCF-1 orchestrate TFH differentiation by regulating differentiation circuits upstream of the transcriptional repressor Bcl6.](http://www.nature.com/ni/journal/v16/n9/full/ni.3226.html)" *Nature immunology* 16, no. 9 (2015): 980-990.
 
 ## profile
 Generating profile of [histone marks](https://www.whatisepigenetics.com/histone-modifications/) at specific sets of genomic landmarks.
