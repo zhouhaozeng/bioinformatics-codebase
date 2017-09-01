@@ -45,7 +45,7 @@ Generating profile of [histone marks](https://www.whatisepigenetics.com/histone-
 <img src="examples/profile-4.png" width="350">
 
 ## enhancer
-Finding enhancers from histone modification data.
+Finding [enhancers](https://en.wikipedia.org/wiki/Enhancer_(genetics)) from histone modification data.
 
 #### [`find_enhancer.py`](enhancer/find_enhancer.py)
 
@@ -58,7 +58,7 @@ Obtaining the genomic distribution of peaks and their associated genes.
 
 #### [`peaks_genomic_distribution.py`](genomic_distribution/peaks_genomic_distribution.py)
 
-**Usage:** Counting the number of peaks located in different genomic region (promoter, gene body, and intergenic region).
+**Usage:** Counting the number of peaks located in different genomic region ([promoter](https://en.wikipedia.org/wiki/Promoter_(genetics)), gene body, and [intergenic region](https://en.wikipedia.org/wiki/Intergenic_region)).
 if a peak is located in the promoter or gene body of a specific gene, record that associated gene.
 
 **Example:**
