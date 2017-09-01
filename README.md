@@ -16,7 +16,7 @@ Generating profile of [histone marks](https://www.whatisepigenetics.com/histone-
 
 **Usage:** generating profile or histone marks around gene [TSS](https://en.wikiversity.org/wiki/Gene_transcriptions/Start_sites) or TES.
 
-**Example:** figure from my co-first authored [paper](http://www.nature.com/ni/journal/v17/n6/full/ni.3456.html) published in *Nature Immunology* on 2016.
+**Example:**
 
 <img src="examples/profile-1.png" width="400">
 
@@ -32,7 +32,7 @@ Generating profile of [histone marks](https://www.whatisepigenetics.com/histone-
 
 **Usage:** generating profile around transcription factor binding sites aligned by their summits.
 
-**Example:** figure from my co-first authored [paper](http://www.nature.com/ni/journal/v18/n8/full/ni.3773.html) published in *Nature Immunology* on 2017.
+**Example:**
 
 <img src="examples/profile-3.png" width="700">
 
@@ -40,7 +40,7 @@ Generating profile of [histone marks](https://www.whatisepigenetics.com/histone-
 
 **Usage:** generating matrix of profiles around transcription binding sites. One profile for each binding site, organized as a heatmap.
 
-**Example:** figure from my ongoing project
+**Example:**
 
 <img src="examples/profile-4.png" width="350">
 
@@ -58,7 +58,7 @@ Obtaining the genomic distribution of peaks and their associated genes.
 
 #### [`peaks_genomic_distribution.py`](genomic_distribution/peaks_genomic_distribution.py)
 
-**Usage:** Counting the number of peaks located in different genomic region ([promoter](https://en.wikipedia.org/wiki/Promoter_(genetics)), gene body, and [intergenic region](https://en.wikipedia.org/wiki/Intergenic_region)).
+**Usage:** Counting the number of peaks located in different genomic region ([promoter](https://en.wikipedia.org/wiki/Promoter_(genetics)), [gene body](https://socratic.org/questions/what-is-a-gene-body), and [intergenic region](https://en.wikipedia.org/wiki/Intergenic_region)).
 if a peak is located in the promoter or gene body of a specific gene, record that associated gene.
 
 **Example:**
